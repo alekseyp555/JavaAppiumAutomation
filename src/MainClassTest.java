@@ -1,5 +1,4 @@
 import org.junit.Test;
-
 import static org.junit.Assert.assertTrue;
 
 public class MainClassTest extends MainClass
@@ -18,5 +17,15 @@ public class MainClassTest extends MainClass
         int expected = 45;
         //int actual = getClassNumber();
         assertTrue("ClassNumber " +getClassNumber()+ "!>45", expected < getClassNumber());
+    }
+
+    @Test
+    public void testGetClassString()
+    {
+        String expected1 = "hello";
+        String expected2 = "Hello";
+        //int actual = getClassNumber();
+        assertTrue("ClassString " +getClassString()+ "!=Hello", expected1.equals(getClassString()));
+        assertTrue("ClassString " +getClassString()+ "!=Hello", expected2.equals(getClassString()));
     }
 }
