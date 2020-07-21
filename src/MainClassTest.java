@@ -22,10 +22,7 @@ public class MainClassTest extends MainClass
     @Test
     public void testGetClassString()
     {
-        String expected1 = "hello";
-        String expected2 = "Hello";
-        //int actual = getClassNumber();
-        assertTrue("ClassString " +getClassString()+ "!=Hello", expected1.equals(getClassString()));
-        assertTrue("ClassString " +getClassString()+ "!=Hello", expected2.equals(getClassString()));
+        assertTrue("The returned string doesn,t contain a \"Hello\" or \"hello\" substring.",
+                this.getClassString().contains("Hello") || this.getClassString().contains("hello"));
     }
 }
