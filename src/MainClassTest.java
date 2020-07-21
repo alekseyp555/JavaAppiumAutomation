@@ -22,7 +22,7 @@ public class MainClassTest extends MainClass
     @Test
     public void testGetClassString()
     {
-        assertTrue("The returned string doesn,t contain a \"Hello\" or \"hello\" substring.",
+        assertTrue("ClassString doesn't contain Hello or hello",
                 this.getClassString().contains("Hello") || this.getClassString().contains("hello"));
     }
 }
