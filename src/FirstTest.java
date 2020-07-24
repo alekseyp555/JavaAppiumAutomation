@@ -134,6 +134,54 @@ public class FirstTest {
     );
   }
 
+  //Ex3: Тест: отмена поиска
+  @Test
+  public void testCancelSearchArticle() {
+    waitForElementAndClick(
+            By.id("org.wikipedia:id/search_container"),
+            "Cannot find 'Search Wikipedia' input",
+            5);
+
+    waitForElementAndSendKeys(
+            By.xpath("//*[contains(@text, 'Search…')]"),
+            "Oracle",
+            "Cannot find search input",
+            5);;
+
+    waitForElementPresent(
+            By.xpath("//*[@resource-id=org.wikipedia:id/page_list_item_description']//*[@text='American multinational computer technology corporation']"),
+            "Cannot find 'American multinational computer technology corporation' topic searching by 'Oracle",
+            15);
+
+    waitForElementPresent(
+            By.xpath("//*[@resource-id=org.wikipedia:id/page_list_item_description']//*[@text='Database software']"),
+            "Cannot find 'Database software' topic searching by 'Oracle",
+            15);
+
+    waitForElementAndClick(
+            By.id("org.wikipedia:id/search_close_btn"),
+            "Cannot find X to cancel search",
+            5);
+
+    waitForElementNotPresent(
+            By.id("org.wikipedia:id/search_close_btn"),
+            "X is still present on the page",
+            5);
+
+    waitForElementNotPresent(
+            By.xpath("//*[@resource-id=org.wikipedia:id/page_list_item_description']//*[@text='American multinational computer technology corporation']"),
+            "Cannot find 'American multinational computer technology corporation' topic searching by 'Oracle",
+            15);
+
+    waitForElementNotPresent(
+            By.xpath("//*[@resource-id=org.wikipedia:id/page_list_item_description']//*[@text='Database software']"),
+            "Cannot find 'Database software' topic searching by 'Oracle",
+            15);
+    }
+
+  //Ex4: Тест: отмена поиска
+
+
     private WebElement waitForElementPresent(By by, String error_message, long timeOutInSeconds)
     {
         WebDriverWait wait = new WebDriverWait(driver, timeOutInSeconds);
