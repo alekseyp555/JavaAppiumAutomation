@@ -16,7 +16,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.net.URL;
 import java.util.List;
 
-import static org.junit.Assert.*;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
@@ -421,8 +420,7 @@ public class FirstTest {
   }
 
   @Test
-  public void testCheckSearchArticleInBackground()
-  {
+  public void testCheckSearchArticleInBackground() {
     waitForElementAndClick(
             By.xpath("//*[contains(@text, 'Search Wikipedia')]"),
             "Cannot find 'Search Wikipedia' input",
@@ -447,7 +445,7 @@ public class FirstTest {
             5);
   }
 
-//Ex5: Тест: сохранение двух статей
+  //Ex5: Тест: сохранение двух статей
   @Test
   public void saveTwoArticlesAndDeleteFirst() {
 //Сохраняем первую статью
@@ -546,8 +544,8 @@ public class FirstTest {
     //выбор существующей папки из списка
     waitForElementAndClick(
             By.xpath("//*[@text='" + name_of_folder + "']"),
-                    "Cannot find folder with title " + name_of_folder,
-                    5);
+            "Cannot find folder with title " + name_of_folder,
+            5);
 
     waitForElementAndClick(
             By.xpath("//android.widget.ImageButton[@content-desc='Navigate up']"),
@@ -578,14 +576,14 @@ public class FirstTest {
     //4. Переходит в неё и убеждается, что title совпадает
     waitForElementAndClick(
             By.xpath("//*[@text='Android']"),
-                    "Cannot find article in the created folder",
-                    5);
+            "Cannot find article in the created folder",
+            5);
 
     // проверка заголовка 2-ой статьи
     WebElement second_title_element = waitForElementPresent(
-                    By.xpath("//*[@text='Android']"),
-                    "Cannot find title of the remained article",
-                    5);
+            By.xpath("//*[@text='Android']"),
+            "Cannot find title of the remained article",
+            5);
 
     String article_title = second_title_element.getAttribute("text");
 
@@ -613,16 +611,59 @@ public class FirstTest {
             5);
 
     waitForElementAndClick(
-             By.xpath(search_result_locator),
+            By.xpath(search_result_locator),
             "Cannot find any results by searching " + search_line,
             5);
 
     String title_locator = "//*[@resource-id='org.wikipedia:id/view_page_title_text']";
     assertElementPresent(
-                    By.xpath(title_locator),
-                    search_line,
-                    "Title of the article does not match with requested " + search_line);
+            By.xpath(title_locator),
+            search_line,
+            "Title of the article does not match with requested " + search_line);
   }
+
+  //Ex7*: Поворот экрана
+  @Test
+  public void testScreenOrientationOnSearchResults() {
+    //Меняем ориентацию на альбомную принудительно для теста
+    driver.rotate(ScreenOrientation.LANDSCAPE);
+    waitForElementAndClick(
+            By.xpath("//*[contains(@text,'Search Wikipedia')]"),
+                    "Cannot find search input",
+                    5);
+
+    String search_line = "Java";
+    waitForElementAndSendKeys(
+            By.xpath("//*[contains(@text,'Search…')]"),
+            search_line,
+            "Cannot type search line into search bar",
+            15);
+
+    waitForElementAndClick(
+            By.xpath("//*[@text='Java (programming language)']"),
+            "Cannot find Java (programming language)' topic searching by " + search_line,
+                    15);
+
+    String title_before_rotation = waitForElementAndGetAttribute(
+            By.xpath("//*[@text='Java (programming language)']"),
+                    "text",
+                    "Cannot find title of article before rotation",
+                    15);
+
+    driver.rotate(ScreenOrientation.PORTRAIT);
+
+    String title_after_rotation = waitForElementAndGetAttribute(
+            By.xpath("//*[@text='Java (programming language)']"),
+            "text",
+            "Cannot find title of article after rotation",
+                    15);
+
+    assertEquals(
+            "Article title changed after rotation",
+            title_before_rotation,
+            title_after_rotation);
+  }
+
 
   private WebElement waitForElementPresent(By by, String error_message, long timeOutInSeconds) {
     WebDriverWait wait = new WebDriverWait(driver, timeOutInSeconds);
@@ -745,8 +786,7 @@ public class FirstTest {
   }
 
   //метод получения аттрибута
-  private String waitForElementAndGetAttribute(By by, String attribute, String error_message, long timeOutInSeconds)
-  {
+  private String waitForElementAndGetAttribute(By by, String attribute, String error_message, long timeOutInSeconds) {
     WebElement element = waitForElementPresent(by, error_message, timeOutInSeconds);
     return element.getAttribute(attribute);
   }
