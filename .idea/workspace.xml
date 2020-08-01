@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85960c7c-73a0-44dd-8270-4d251227fbe3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,11 +19,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="466" column="12" selection-start-line="466" selection-start-column="12" selection-end-line="466" selection-end-column="12" />
+            <state relative-caret-position="155">
+              <caret line="624" column="9" lean-forward="true" selection-start-line="624" selection-start-column="9" selection-end-line="624" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#22761#22762#0" expanded="true" />
+                <element signature="e#23794#23795#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,7 +162,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FirstTest.saveTwoArticlesAndDeleteFirst">
+  <component name="RunManager" selected="JUnit.FirstTest.checkTitleOnTheArticlePage">
+    <configuration name="FirstTest.checkTitleOnTheArticlePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAppiumAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="checkTitleOnTheArticlePage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstTest.saveTwoArticlesAndDeleteFirst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaAppiumAutomation" />
       <option name="PACKAGE_NAME" value="" />
@@ -179,16 +188,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FirstTest" />
       <option name="METHOD_NAME" value="testAmountOfEmptySearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstTest.testAmountOfNotEmptySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaAppiumAutomation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
-      <option name="METHOD_NAME" value="testAmountOfNotEmptySearch" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -216,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FirstTest.checkTitleOnTheArticlePage" />
         <item itemvalue="JUnit.FirstTest.saveTwoArticlesAndDeleteFirst" />
         <item itemvalue="JUnit.FirstTest.testCheckSearchArticleInBackground" />
         <item itemvalue="JUnit.FirstTest.testChangeScreenOrientionOnSearchResults" />
         <item itemvalue="JUnit.FirstTest.testAmountOfEmptySearch" />
-        <item itemvalue="JUnit.FirstTest.testAmountOfNotEmptySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -238,12 +237,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstTest_testAmountOfEmptySearch - 2020.08.01 at 18h 31m 34s.xml">
-      <configuration name="FirstTest.testAmountOfEmptySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstTest_testChangeScreenOrientionOnSearchResults - 2020.08.01 at 18h 46m 22s.xml">
-      <configuration name="FirstTest.testChangeScreenOrientionOnSearchResults" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FirstTest_testChangeScreenOrientionOnSearchResults - 2020.08.01 at 18h 50m 02s.xml">
       <configuration name="FirstTest.testChangeScreenOrientionOnSearchResults" configurationId="JUnit" />
     </history-entry>
@@ -267,6 +260,12 @@
     </history-entry>
     <history-entry file="FirstTest_saveTwoArticlesAndDeleteFirst - 2020.08.01 at 21h 14m 59s.xml">
       <configuration name="FirstTest.saveTwoArticlesAndDeleteFirst" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest_checkTitleOnTheArticlePage - 2020.08.01 at 21h 41m 55s.xml">
+      <configuration name="FirstTest.checkTitleOnTheArticlePage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest_checkTitleOnTheArticlePage - 2020.08.01 at 21h 43m 22s.xml">
+      <configuration name="FirstTest.checkTitleOnTheArticlePage" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -356,16 +355,6 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -379,13 +368,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FirstTest.java">
+    <entry file="file://$PROJECT_DIR$/src/MainClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="466" column="12" selection-start-line="466" selection-start-column="12" selection-end-line="466" selection-end-column="12" />
+        <state relative-caret-position="155">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#22761#22762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="624" column="9" lean-forward="true" selection-start-line="624" selection-start-column="9" selection-end-line="624" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#23794#23795#0" expanded="true" />
           </folding>
         </state>
       </provider>

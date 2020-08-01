@@ -16,6 +16,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.net.URL;
 import java.util.List;
 
+import static org.junit.Assert.*;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
@@ -594,6 +595,35 @@ public class FirstTest {
             article_title);
   }
 
+  //Ex6: Тест: assert title
+  @Test
+  public void checkTitleOnTheArticlePage() {
+    String search_line = "Iphone";
+    String search_result_locator = "//*[@resource-id='org.wikipedia:id/page_list_item_title'][@text='Iphone']";
+
+    waitForElementAndClick(
+            By.xpath("//*[contains(@text,'Search Wikipedia')]"),
+            "Cannot find search input",
+            5);
+
+    waitForElementAndSendKeys(
+            By.xpath("//*[contains(@text,'Search…')]"),
+            search_line,
+            "Cannot find search input field",
+            5);
+
+    waitForElementAndClick(
+             By.xpath(search_result_locator),
+            "Cannot find any results by searching " + search_line,
+            5);
+
+    String title_locator = "//*[@resource-id='org.wikipedia:id/view_page_title_text']";
+    assertElementPresent(
+                    By.xpath(title_locator),
+                    search_line,
+                    "Title of the article does not match with requested " + search_line);
+  }
+
   private WebElement waitForElementPresent(By by, String error_message, long timeOutInSeconds) {
     WebDriverWait wait = new WebDriverWait(driver, timeOutInSeconds);
     wait.withMessage(error_message + "\n");
@@ -714,9 +744,17 @@ public class FirstTest {
     }
   }
 
+  //метод получения аттрибута
   private String waitForElementAndGetAttribute(By by, String attribute, String error_message, long timeOutInSeconds)
   {
     WebElement element = waitForElementPresent(by, error_message, timeOutInSeconds);
     return element.getAttribute(attribute);
+  }
+
+  //метод поиск элемента по локатору, получает аттрибут text и проверяет соответствует ли он поисковой фразе
+  public void assertElementPresent(By by, String search_title, String error_message) {
+    WebElement element = driver.findElement(by);
+    String actual_title = element.getAttribute("text");
+    assertTrue(error_message, actual_title.equals(search_title));
   }
 }
