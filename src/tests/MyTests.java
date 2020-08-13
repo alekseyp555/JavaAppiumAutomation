@@ -88,4 +88,24 @@ public class MyTests extends CoreTestCase {
             title_before_rotation,
             title_after_rotation);
   }
+  //Ex9*: Рефакторинг темплейта
+  @Test
+  public void testCheckSearchResultByTitleAndSubtitle(){
+    SearchPageObject searchPageObject = new SearchPageObject(driver);
+
+    String expectedTitle1 = "Java";
+    String expectedSubtitle1 = "Island of Indonesia";
+    String expectedTitle2 = "JavaScript";
+    String expectedSubtitle2 = "Programming language";
+    String expectedTitle3 = "Java (programming language)";
+    String expectedSubtitle3 = "Object-oriented programming language";
+    String searchRequest = "Java";
+
+    searchPageObject.initSearchInput();
+    searchPageObject.typeSearchLine(searchRequest);
+
+    searchPageObject.waitForElementByTitleAndDescription(expectedTitle1, expectedSubtitle1);
+    searchPageObject.waitForElementByTitleAndDescription(expectedTitle2, expectedSubtitle2);
+    searchPageObject.waitForElementByTitleAndDescription(expectedTitle3, expectedSubtitle3);
+  }
 }

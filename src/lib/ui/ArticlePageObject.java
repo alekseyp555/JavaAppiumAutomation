@@ -14,7 +14,7 @@ public class ArticlePageObject extends MainPageObject {
     MY_LIST_NAME_INPUT = "text_input",
     MY_LIST_OK_BUTTON = "//*[@text='OK']",
     CLOSE_ARTICLE_TITLE = "//android.widget.ImageButton[@content-desc='Navigate up']",
-    ARTICLE_SUBTITLE = "//*[@text='{TITLE}']";
+    ARTICLE_SUBTITLE = "//*[@text='{SUBTITLE}']";
 
   public ArticlePageObject(AppiumDriver driver)
   {
