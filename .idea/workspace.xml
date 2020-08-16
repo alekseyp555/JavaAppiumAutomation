@@ -2,9 +2,1332 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85960c7c-73a0-44dd-8270-4d251227fbe3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/AboutViewController.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/AbuseFilterAlertView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/AppIcon60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/AppIcon76x76@2x~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ArticlePopoverViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/BeKindInputAccessoryView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ContextualHighlightEditToolbarView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/CreateNewReadingListButtonView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/CreateReadingListViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DebugReadingListsViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DefaultEditToolbarView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionEditViewController.storyboardc/DescriptionEditViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionEditViewController.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionEditViewController.storyboardc/a7r-jI-djU-view-GYS-km-eqa.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionHelpViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionWelcome.storyboardc/DescriptionWelcomeContainerViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionWelcome.storyboardc/DescriptionWelcomeContentsViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionWelcome.storyboardc/DescriptionWelcomeImageViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionWelcome.storyboardc/DescriptionWelcomeInitialViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionWelcome.storyboardc/DescriptionWelcomePageViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionWelcome.storyboardc/DescriptionWelcomePanelViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionWelcome.storyboardc/HdP-0o-ZZC-view-lzy-Eu-ayy.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionWelcome.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionWelcome.storyboardc/ncK-V0-zLz-view-HVN-iR-kMH.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionWelcome.storyboardc/phf-K5-0TN-view-GFc-RE-fPO.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionWelcome.storyboardc/qLZ-5x-Kxd-view-Ev9-ZH-utG.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DescriptionWelcome.storyboardc/sbE-3l-bqs-view-wCD-x0-Vga.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffHeaderCompareItemView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffHeaderCompareView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffHeaderEditorView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffHeaderExtendedView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffHeaderSummaryView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffHeaderTitleView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffListChangeCell.nib/objects-12.3+.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffListChangeCell.nib/runtime.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffListContextCell.nib/objects-12.3+.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffListContextCell.nib/runtime.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffListUneditedCell.nib/objects-12.3+.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffListUneditedCell.nib/runtime.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffResponse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/DiffToolbarView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/EditLinkViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/EditPreviewInternalLinkViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/EditSaveViewController.storyboardc/EditSaveViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/EditSaveViewController.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/EditSaveViewController.storyboardc/YCc-it-nqb-view-tP4-ul-Au7.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/EditSummaryViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/EmptyViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/EraseSavedArticlesView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/FocusNavigationView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/FontSizeSliderViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/CocoaLumberjack.framework/CocoaLumberjack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/CocoaLumberjack.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/CocoaLumberjack.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/CocoaLumberjackSwift.framework/CocoaLumberjackSwift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/CocoaLumberjackSwift.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/CocoaLumberjackSwift.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/FLAnimatedImage.framework/FLAnimatedImage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/FLAnimatedImage.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/FLAnimatedImage.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/Mantle.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/Mantle.framework/Mantle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/Mantle.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/NYTPhotoViewer.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/NYTPhotoViewer.framework/NYTPhotoViewer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/NYTPhotoViewer.framework/NYTPhotoViewer.bundle/NYTPhotoViewerCloseButtonX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/NYTPhotoViewer.framework/NYTPhotoViewer.bundle/NYTPhotoViewerCloseButtonX@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/NYTPhotoViewer.framework/NYTPhotoViewer.bundle/NYTPhotoViewerCloseButtonX@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/NYTPhotoViewer.framework/NYTPhotoViewer.bundle/NYTPhotoViewerCloseButtonXLandscape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/NYTPhotoViewer.framework/NYTPhotoViewer.bundle/NYTPhotoViewerCloseButtonXLandscape@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/NYTPhotoViewer.framework/NYTPhotoViewer.bundle/NYTPhotoViewerCloseButtonXLandscape@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/NYTPhotoViewer.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/BatchEditToolbarViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/Cache.momd/Cache 2.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/Cache.momd/Cache 2.omo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/Cache.momd/Cache.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/Cache.momd/VersionInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/CacheItemMappingModel.cdm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/EventLogging.momd/EventLogging 2.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/EventLogging.momd/EventLogging 2.omo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/EventLogging.momd/EventLogging.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/EventLogging.momd/VersionInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/MediaWikiAcceptLanguageMapping.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/RemoteNotifications.momd/RemoteNotifications 2.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/RemoteNotifications.momd/RemoteNotifications 2.omo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/RemoteNotifications.momd/RemoteNotifications.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/RemoteNotifications.momd/VersionInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/WMF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/WMFArticlePreviewViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/Wikipedia.momd/VersionInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/Wikipedia.momd/Wikipedia 2.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/Wikipedia.momd/Wikipedia 3.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/Wikipedia.momd/Wikipedia 4.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/Wikipedia.momd/Wikipedia 4.omo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/Wikipedia.momd/Wikipedia.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/af.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/af.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ar.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ar.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/as.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/as.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/WMF_Black.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/WMF_White.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/Wikimedia-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/abusefilter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/codemirror-black.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/codemirror-bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/codemirror-common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/codemirror-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/codemirror-editTextSelection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/codemirror-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/codemirror-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/codemirror-range-determination-bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/codemirror-sepia.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/codemirror-syntax-highlighting-off.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-aa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ak.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-als.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-am.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-an.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ang.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-arc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-arz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-as.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ast.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-av.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ay.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-az.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bat-smg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bcl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-be-x-old.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bjn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bpy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-br.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-bxr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-cbk-zam.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-cdo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ceb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-cho.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-chr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-chy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ckb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-co.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-cr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-crh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-cs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-csb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-cu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-cv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-cy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-diq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-dsb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-dv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-dz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-el.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-eml.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-eo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-et.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-eu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ext.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-fi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-fiu-vro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-fj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-fo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-frp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-frr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-fur.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-fy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ga.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-gag.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-gan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-gd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-gl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-glk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-gn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-got.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-gu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-gv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ha.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-hak.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-haw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-he.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-hi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-hif.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ho.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-hr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-hsb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ht.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-hu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-hy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-hz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-id.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ie.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ii.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ik.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ilo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-io.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-is.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-it.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-iu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ja.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-jbo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-jv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ka.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-kaa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-kab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-kbd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-kg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ki.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-kj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-kk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-kl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-km.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-kn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ko.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-koi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-kr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-krc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ksh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ku.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-kv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-kw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ky.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-la.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-lad.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-lb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-lbe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-lez.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-lg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-li.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-lij.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-lmo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ln.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-lo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-lt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ltg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-lv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-map-bms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mdf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mhr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-min.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ml.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mrj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mwl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-my.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-myv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-mzn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-na.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-nah.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-nap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-nds-nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-nds.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ng.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-nn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-no.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-nov.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-nrm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-nso.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-nv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ny.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-oc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-om.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-or.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-os.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pag.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pam.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pcd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pdc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pfl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pih.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pnb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pnt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-pt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-qu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-rm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-rmy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-rn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-roa-rup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-roa-tara.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-rue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-rw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sah.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-scn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sco.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-se.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-si.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-simple.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-so.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-srn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ss.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-st.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-stq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-su.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-szl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-tcy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-te.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-tet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-tg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-th.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ti.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-tk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-tl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-tn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-to.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-tpi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-tr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-tt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-tum.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-tw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ty.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-tyv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-udm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-uk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ur.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-uz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-ve.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-vec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-vep.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-vi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-vls.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-vo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-wa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-war.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-wo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-wuu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-xal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-xh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-xmf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-yi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-yo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-yue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-za.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-zea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-zh-classical.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-zh-min-nan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-zh-yue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-zh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/config/codemirror-config-zu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/addon/search/annotatescrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/addon/search/jump-to-line.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/addon/search/match-highlighter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/addon/search/matches.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/addon/search/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/addon/search/searchcursor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/ext.CodeMirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/ext.CodeMirror.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/lib/codemirror/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/lib/codemirror/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/lib/codemirror/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/lib/codemirror/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/lib/codemirror/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/lib/codemirror/lib/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/lib/codemirror/lib/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/lib/codemirror/mode/clike/clike.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/lib/codemirror/mode/css/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/lib/codemirror/mode/htmlmixed/htmlmixed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/lib/codemirror/mode/javascript/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/lib/codemirror/mode/php/php.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/lib/codemirror/mode/xml/xml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/mode/mediawiki/img/black4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/mode/mediawiki/img/ext2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/mode/mediawiki/img/ext4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/mode/mediawiki/img/link4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/mode/mediawiki/img/template4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/mode/mediawiki/img/template8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/mode/mediawiki/mediawiki.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/mode/mediawiki/mediawiki.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/mode/mediawiki/tests/qunit/CodeMirror.mediawiki.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/modules/ve-cm/ve.ui.CodeMirror.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/modules/ve-cm/ve.ui.CodeMirror.init.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/modules/ve-cm/ve.ui.CodeMirrorAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/codemirror/resources/modules/ve-cm/ve.ui.CodeMirrorTool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/languages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/mainpages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/pcs-html-converter/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/pcs-html-converter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/pcs-html-converter/pcs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/pcs-html-converter/pcs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/preview.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/styleoverrides.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/wikimedia-page-library-transform.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/assets/wikimedia-page-library-transform.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ast.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ast.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/av.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/azb.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ba.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ba.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/bgn.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/bn.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/bn.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/br.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/br.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/bs.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/bs.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ca.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ca.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ce.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ce.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ckb.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ckb.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/cnh.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/cs.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/cs.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/cy.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/cy.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/da.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/da.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/de.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/de.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/diq.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/el.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/el.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/en.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/en.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/eo.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/eo.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/es.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/es.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/eu.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/eu.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/fa.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/fa.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/fi.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/fi.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/fil.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/fo.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/fo.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/fr.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/fr.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ga.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ga.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/gl.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/gl.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/haw.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/haw.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/he.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/he.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/hi.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/hi.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/hr.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/hr.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/hrx.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/hsb.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/hsb.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/hu.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/hu.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/hy.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/hy.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/id.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/id.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/is.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/is.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/it.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/it.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ja.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ja.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/jv.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/jv.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ka.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ka.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/kab.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/kab.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/km.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/km.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/kn.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/kn.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ko.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ko.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/krc.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/krc.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ksh.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ksh.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/lb.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/lb.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/lt.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/lt.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/lv.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/lv.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/mai.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/mai.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/mk.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/mk.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ml.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ml.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/mr.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/mr.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ms.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ms.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/my.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/my.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/nb.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/nb.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ne.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ne.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/nl.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/nl.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/oc.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/oc.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/om.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/om.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/or.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/or.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/pa.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/pa.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/pl.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/pl.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ps.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ps.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/pt-br.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/pt-br.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/pt.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/pt.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ro.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ro.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ru.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ru.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sa.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sa.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sah.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sah.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sco.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sco.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sd.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sd.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sk.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sk.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sl.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sl.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sq.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sq.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sr-EC.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sr-EC.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/su.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/su.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sv.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sv.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sw.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/sw.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ta.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ta.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/tcy.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/tcy.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/te.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/te.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/tg-cyrl.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/tg.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/th.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/th.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/tl.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/tr.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/tr.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/uk.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/uk.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ur.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/ur.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/uz.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/uz.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/vec.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/vec.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/vi.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/vi.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/yi.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/yi.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/zh-hans.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/zh-hans.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/zh-hant.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/WMF.framework/zh-hant.lproj/Localizable.stringsdict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/hpple.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/hpple.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/hpple.framework/hpple" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/libswiftCore.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/libswiftCoreData.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/libswiftCoreFoundation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/libswiftCoreGraphics.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/libswiftCoreImage.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/libswiftDarwin.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/libswiftDispatch.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/libswiftFoundation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/libswiftMetal.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/libswiftObjectiveC.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/libswiftQuartzCore.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/libswiftUIKit.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Frameworks/libswiftos.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/HintViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ImageDimmingExampleViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/InsertMediaCustomImageSizeSettingTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/InsertMediaImageInfoView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/InsertMediaSearchResultPreviewingViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/InsertMediaSettingsButtonView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/InsertMediaSettingsImageView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/InsertMediaSettingsTextTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Launch Screen.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/LibrariesUsed.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/LibrariesUsed.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/LibrariesUsed.storyboardc/LibrariesUsedViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/LibrariesUsed.storyboardc/LibraryUsedViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/LibrariesUsed.storyboardc/RAl-lu-nmB-view-Lt1-Fz-AJg.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/LibrariesUsed.storyboardc/Var-9e-kfX-view-QKe-YT-pRO.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/LoadingAnimationViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NewsCollectionViewHeader.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundError.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundError@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundErrorIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundErrorIcon@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundMessage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundMessage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundSuccess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundSuccess@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundSuccessIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundSuccessIcon@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundWarning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundWarning@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundWarningIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationBackgroundWarningIcon@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationButtonBackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/NotificationButtonBackground@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/OnThisDayViewControllerHeader.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PageHistoryComparisonSelectionViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PageHistoryCountsViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PageHistoryFilterCountCollectionViewCell.nib/objects-12.3+.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PageHistoryFilterCountCollectionViewCell.nib/runtime.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Places.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Places.storyboardc/Places.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Places.storyboardc/UIViewController-pK5-Ai-Kzp.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Places.storyboardc/pK5-Ai-Kzp-view-pBD-gM-dPf.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlacesSearchSuggestionTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/ContinueReadingWidget.appex/Base.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/ContinueReadingWidget.appex/Base.lproj/MainInterface.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/ContinueReadingWidget.appex/Base.lproj/MainInterface.storyboardc/M4Y-Lb-cyx-view-S3S-Oj-5AN.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/ContinueReadingWidget.appex/Base.lproj/MainInterface.storyboardc/UIViewController-M4Y-Lb-cyx.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/ContinueReadingWidget.appex/ContinueReadingWidget" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/ContinueReadingWidget.appex/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/ContinueReadingWidget.appex/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/ContinueReadingWidget.appex/en.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/FeaturedArticleWidget.appex/Base.lproj/MainInterface.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/FeaturedArticleWidget.appex/Base.lproj/MainInterface.storyboardc/M4Y-Lb-cyx-view-S3S-Oj-5AN.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/FeaturedArticleWidget.appex/Base.lproj/MainInterface.storyboardc/UIViewController-M4Y-Lb-cyx.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/FeaturedArticleWidget.appex/FeaturedArticleWidget" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/FeaturedArticleWidget.appex/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/FeaturedArticleWidget.appex/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/InTheNewsNotification.appex/Base.lproj/MainInterface.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/InTheNewsNotification.appex/Base.lproj/MainInterface.storyboardc/M4Y-Lb-cyx-view-S3S-Oj-5AN.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/InTheNewsNotification.appex/Base.lproj/MainInterface.storyboardc/UIViewController-M4Y-Lb-cyx.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/InTheNewsNotification.appex/InTheNewsNotification" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/InTheNewsNotification.appex/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/InTheNewsNotification.appex/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/TopReadWidget.appex/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/TopReadWidget.appex/Base.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/TopReadWidget.appex/Base.lproj/MainInterface.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/TopReadWidget.appex/Base.lproj/MainInterface.storyboardc/M4Y-Lb-cyx-view-S3S-Oj-5AN.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/TopReadWidget.appex/Base.lproj/MainInterface.storyboardc/UIViewController-M4Y-Lb-cyx.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/TopReadWidget.appex/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/TopReadWidget.appex/TopReadWidget" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/TopReadWidget.appex/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/TopReadWidget.appex/en.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Anatomical heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Astronaut animated.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Astronaut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Blackhole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Books.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/BrainFood.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Butterfly.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/CatLaptop.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Citation needed .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Citation needed animated.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Dragon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Facts.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Heart eyes.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Help lol.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Idea.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/International space station.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Math meme.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Newspaper.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Note taking.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Rabbit hole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/RabbitHole.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Schrodingers cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Science.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Scientific blackhole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Spacedog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Tea dark skin tone.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Tea light skin tone.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Teamwork.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Thug.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/What.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/Wordmark.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Sticker Pack.stickerpack/World.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/Wikipedia Stickers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/iMessage App Icon27x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/iMessage App Icon27x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/iMessage App Icon32x24@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/iMessage App Icon32x24@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/iMessage App Icon60x45@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/iMessage App Icon60x45@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/iMessage App Icon67x50@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/PlugIns/Wikipedia Stickers.appex/iMessage App Icon74x55@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Properties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/RMessageDefaultDesign.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/RMessageView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ReadMoreAboutRevertedEditViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ReadingListDetailUnderBarViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ReadingThemesControlsViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Saved.storyboardc/DbA-ai-MSH-view-GCG-ME-1AZ.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Saved.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Saved.storyboardc/Saved.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/SavedProgressViewController.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/SavedProgressViewController.storyboardc/SavedProgressViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/SavedProgressViewController.storyboardc/byl-9N-rP3-view-Bog-93-sHh.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ScrollableEducationPanelView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/SearchBarExtendedViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/SearchLanguagesBarViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ShareAFactViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ShareViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/SubSettingsViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TSMessagesDefaultDesign.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/ca.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/cs.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/de.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/en.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/es.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/eu.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/fi.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/fr.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/it.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/ja.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/ko.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/nl.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/no.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/pl.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/pt.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/ru.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/safari-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/safari-7@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/safari-7@2x~iPad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/safari-7@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/safari-7~iPad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/safari.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/safari@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/safari@2x~iPad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/safari@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/safari~iPad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/sk.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/sv.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/vi.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/zh_Hans.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TUSafariActivity.bundle/zh_Hant.lproj/TUSafariActivity.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TableOfContentsCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TableOfContentsHeader.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TalkPageHeaderView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TalkPageTopicNewViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TextFormatting.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TextFormatting.storyboardc/TTT-UR-cQr-view-Wo1-Zn-ue4.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TextFormatting.storyboardc/TextFormattingInputViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TextFormatting.storyboardc/TextFormattingTableViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TextFormatting.storyboardc/TextSizeFormattingTableViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TextFormatting.storyboardc/TextStyleFormattingTableViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TextFormatting.storyboardc/c6k-HI-Rwr-view-Qjc-KZ-bns.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TextFormatting.storyboardc/hyT-L3-Svb-view-iOZ-ez-5tC.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TextFormatting.storyboardc/rO7-JZ-2MQ-view-CrV-ni-bka.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TextFormattingButtonView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TextFormattingGroupedToolbarView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TextFormattingPlainToolbarView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/TextSizeChangeExampleViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFAccountCreationViewController.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFAccountCreationViewController.storyboardc/LsX-JK-bT6-view-c5n-ZK-2d9.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFAccountCreationViewController.storyboardc/WMFAccountCreationViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFArticleLanguagesSectionFooter.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFArticleLanguagesSectionHeader.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFBarButtonItemPopoverMessageViewController.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFBarButtonItemPopoverMessageViewController.storyboardc/Twi-Do-8Ec-view-EFr-M1-WKG.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFBarButtonItemPopoverMessageViewController.storyboardc/UIViewController-Twi-Do-8Ec.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFCaptchaViewController.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFCaptchaViewController.storyboardc/WMFCaptchaViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFCaptchaViewController.storyboardc/sIA-fC-CW8-view-2UF-VY-OwF.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFChangePasswordViewController.storyboardc/HvE-aJ-r18-view-1vt-ta-cot.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFChangePasswordViewController.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFChangePasswordViewController.storyboardc/WMFChangePasswordViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFEmptyView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFFindAndReplaceKeyboardBar.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFForgotPasswordViewController.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFForgotPasswordViewController.storyboardc/WMFForgotPasswordViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFForgotPasswordViewController.storyboardc/a7r-jI-djU-view-GYS-km-eqa.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFImageGalleryDetailOverlayView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFLanguageCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFLanguagesViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFLoginViewController.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFLoginViewController.storyboardc/WMFLoginViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFLoginViewController.storyboardc/mbm-n6-GWW-view-4dr-i6-dn7.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFRandomDiceButton.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFRandomDiceButtonRoll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFReferencePanels.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFReferencePanels.storyboardc/WIr-N7-igK-view-Ktd-hA-m9P.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFReferencePanels.storyboardc/WMFReferencePageViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFReferencePanels.storyboardc/WMFReferencePanelViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFReferencePanels.storyboardc/spA-3k-AHf-view-Hh5-za-gpf.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFReferencePopoverMessageViewController.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFReferencePopoverMessageViewController.storyboardc/UIViewController-rh8-A3-vLx.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFReferencePopoverMessageViewController.storyboardc/rh8-A3-vLx-view-JhK-nO-OQy.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFSettingsTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFSettingsViewController.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFSettingsViewController.storyboardc/LWA-GV-VZP-view-1oL-zz-ml3.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFSettingsViewController.storyboardc/SecondaryMenuViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFTableHeaderFooterLabelView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFTwoFactorPasswordViewController.storyboardc/AT3-3L-21R-view-shM-H7-5vu.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFTwoFactorPasswordViewController.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFTwoFactorPasswordViewController.storyboardc/WMFTwoFactorPasswordViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/HdP-0o-ZZC-view-lzy-Eu-ayy.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/Sz5-Ln-qWW-view-g5O-Z4-Myl.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/WMFWelcomeAnalyticsViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/WMFWelcomeAnimationBackgroundViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/WMFWelcomeAnimationForgroundViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/WMFWelcomeContainerViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/WMFWelcomeExplorationViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/WMFWelcomeInitialViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/WMFWelcomeIntroductionViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/WMFWelcomeLanguageTableViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/WMFWelcomePageViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/WMFWelcomePanelViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/aoo-cp-EUY-view-h3n-cK-21Q.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/i9b-ci-8HO-view-ihb-9I-oEg.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/ncK-V0-zLz-view-HVN-iR-kMH.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/phf-K5-0TN-view-GFc-RE-fPO.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/qLZ-5x-Kxd-view-Ev9-ZH-utG.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/sbE-3l-bqs-view-wCD-x0-Vga.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WMFWelcome.storyboardc/uX3-NZ-3WE-view-ahe-qt-nPa.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WelcomeContainerViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WelcomePanelLabelContentViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/WelcomePanelViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/Wikipedia" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/af.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ar.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/as.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ast.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/bn.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/br.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/bs.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ca.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ce.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ckb.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/cs.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/cy.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/da.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/de.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/diq.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/el.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/en.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/eo.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/es.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/eu.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/fa.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/fi.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/fo.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/fr.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/gl.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/haw.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/he.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/hi.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/hrx.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/hsb.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/hu.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/hy.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/id.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/is.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/it.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ja.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ka.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/km.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/kn.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ko.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/krc.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ksh.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/lb.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/lt.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/lv.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/mk.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ml.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/mr.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ms.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/my.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/nb.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ne.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/nl.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/oc.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/om.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/or.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/pa.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/pl.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ps.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/pt-br.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/pt.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ro.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ru.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/sa.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/sah.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/sco.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/sd.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/sk.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/sq.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/sr-EC.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/su.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/sv.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/sw.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ta.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/te.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/tg-cyrl.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/th.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/tr.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/uk.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/ur.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/uz.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/vec.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/vi.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/aa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ady.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ak.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/als.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/am.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/an.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ang.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/arc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/arz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/as.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ast.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/atj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/av.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ay.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/az.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/azb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ban.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bat-smg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bcl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bjn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bpy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/br.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/bxr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/cbk-zam.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/cdo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ceb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/cho.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/chr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/chy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ckb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/co.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/cr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/crh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/cs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/csb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/cu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/cv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/cy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/din.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/diq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/dsb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/dty.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/dv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/dz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/el.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/eml.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/eo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/et.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/eu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ext.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/fi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/fiu-vro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/fj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/fo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/frp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/frr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/fur.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/fy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ga.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/gag.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/gan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/gcr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/gd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/gl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/glk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/gn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/gom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/gor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/got.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/gu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/gv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ha.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/hak.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/haw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/he.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/hi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/hif.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ho.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/hr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/hsb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ht.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/hu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/hy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/hyw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/hz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/id.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ie.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ii.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ik.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ilo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/inh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/io.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/is.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/it.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/iu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ja.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/jam.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/jbo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/jv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ka.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/kaa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/kab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/kbd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/kbp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/kg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ki.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/kj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/kk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/kl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/km.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/kn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ko.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/koi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/kr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/krc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ksh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ku.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/kv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/kw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ky.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/la.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/lad.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/lb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/lbe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/lez.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/lfn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/lg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/li.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/lij.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/lmo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ln.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/lo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/lrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/lt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ltg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/lv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mai.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/map-bms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mdf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mhr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/min.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ml.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mnw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mrj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mwl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/my.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/myv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/mzn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/na.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/nah.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/nap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/nds-nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/nds.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ng.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/nn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/no.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/nov.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/nqo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/nrm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/nso.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/nv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ny.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/oc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/olo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/om.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/or.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/os.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pag.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pam.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pcd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pdc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pfl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pih.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pnb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pnt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/pt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/qu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/rm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/rmy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/rn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/roa-rup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/roa-tara.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/rue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/rw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sah.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sat.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/scn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sco.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/se.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/shn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/si.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/simple.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/so.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/srn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ss.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/st.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/stq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/su.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/szl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/szy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/tcy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/te.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/tet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/tg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/th.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ti.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/tk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/tl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/tn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/to.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/tpi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/tr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/tt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/tum.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/tw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ty.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/tyv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/udm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/uk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ur.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/uz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/ve.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/vec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/vep.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/vi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/vls.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/vo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/wa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/war.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/wo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/wuu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/xal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/xh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/xmf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/yi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/yo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/za.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/zea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/zh-classical.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/zh-min-nan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/zh-yue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/zh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/wikipedia-namespaces/zu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/yi.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/zh-hans.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apks/Wikipedia.app/zh-hant.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/iOSTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/ui/WelcomePageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/iOS/GetStartedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/java_client_4_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/selenium_server_standalone_3_4_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAppiumAutomation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAppiumAutomation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaAppiumAutomation/FirstTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaAppiumAutomation/lib/CoreTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaAppiumAutomation/lib/CoreTestCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/CoreTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/CoreTestCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lib/ui/ArticlePageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/ui/ArticlePageObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lib/ui/MainPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/ui/MainPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/ui/MyListsPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/ui/MyListsPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/ui/NavigationUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/ui/NavigationUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lib/ui/SearchPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/ui/SearchPageObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tests/MyTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/MyTests.java" afterDir="false" />
     </list>
@@ -26,9 +1349,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/tests/MyTests.java" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="ProjectId" id="1fVhs9wext20cLIhs3gMWxtFPvB" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,13 +1364,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15039062" />
+    <property name="project.structure.side.proportion" value="0.4223245" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SearchTests.testCancelSearch">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -62,67 +1395,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoreTestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchTests.testCancelSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaAppiumAutomation" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lib.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lib" />
-      <option name="MAIN_CLASS_NAME" value="lib.CoreTestCase" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaAppiumAutomation" />
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.MyTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTests.checkTitleOnTheArticlePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaAppiumAutomation" />
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.MyTests" />
-      <option name="METHOD_NAME" value="checkTitleOnTheArticlePage" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchTests" />
+      <option name="METHOD_NAME" value="testCancelSearch" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="PLATFORM" value="android" />
+      </envs>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTests.saveTwoArticlesAndDeleteFirst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchTests.testSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaAppiumAutomation" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.MyTests" />
-      <option name="METHOD_NAME" value="saveTwoArticlesAndDeleteFirst" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTests.testSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaAppiumAutomation" />
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.MyTests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchTests" />
       <option name="METHOD_NAME" value="testSearch" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="PLATFORM" value="android" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="PLATFORM" value="android" />
+      </envs>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MyTests.testSearch" />
-        <item itemvalue="JUnit.CoreTestCase" />
-        <item itemvalue="JUnit.MyTests" />
-        <item itemvalue="JUnit.MyTests.checkTitleOnTheArticlePage" />
-        <item itemvalue="JUnit.MyTests.saveTwoArticlesAndDeleteFirst" />
+        <item itemvalue="JUnit.SearchTests.testCancelSearch" />
+        <item itemvalue="JUnit.SearchTests.testSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +1469,10 @@
       <option name="presentableId" value="Default" />
       <updated>1594930026992</updated>
       <workItem from="1596309379536" duration="316000" />
+      <workItem from="1597405061301" duration="4501000" />
+      <workItem from="1597518231016" duration="904000" />
+      <workItem from="1597560300136" duration="5965000" />
+      <workItem from="1597570978861" duration="424000" />
     </task>
     <servers />
   </component>
@@ -148,6 +1483,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="7" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597569500208">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="7" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.813@0.23.1440.813" timestamp="1597569500208" />
     <state x="535" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1596725945033">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
@@ -160,33 +1499,47 @@
       <screen x="0" y="23" width="1440" height="820" />
     </state>
     <state x="458" y="297" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.820@0.23.1440.820" timestamp="1597002498873" />
-    <state width="1358" height="198" key="GridCell.Tab.0.bottom" timestamp="1596801802543">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="402" y="119" key="EnvironmentVariablesDialog" timestamp="1597566135312">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
+    <state x="402" y="119" key="EnvironmentVariablesDialog/0.23.1440.813@0.23.1440.813" timestamp="1597566135312" />
+    <state width="1388" height="186" key="GridCell.Tab.0.bottom" timestamp="1597570953349">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="280" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1597567507148" />
+    <state width="1388" height="186" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1597570953349" />
     <state width="1358" height="198" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1596727079532" />
     <state width="1358" height="198" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1596726563108" />
     <state width="1358" height="198" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1596801802543" />
-    <state width="1358" height="198" key="GridCell.Tab.0.center" timestamp="1596801802543">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1388" height="186" key="GridCell.Tab.0.center" timestamp="1597570953347">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
+    <state width="1358" height="280" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1597567507148" />
+    <state width="1388" height="186" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1597570953347" />
     <state width="1358" height="198" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1596727079532" />
     <state width="1358" height="198" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1596726563107" />
     <state width="1358" height="198" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1596801802543" />
-    <state width="1358" height="198" key="GridCell.Tab.0.left" timestamp="1596801802542">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1388" height="186" key="GridCell.Tab.0.left" timestamp="1597570953347">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
+    <state width="1358" height="280" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1597567507147" />
+    <state width="1388" height="186" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1597570953347" />
     <state width="1358" height="198" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1596727079531" />
     <state width="1358" height="198" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1596726563107" />
     <state width="1358" height="198" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1596801802542" />
-    <state width="1358" height="198" key="GridCell.Tab.0.right" timestamp="1596801802543">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1388" height="186" key="GridCell.Tab.0.right" timestamp="1597570953348">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
+    <state width="1358" height="280" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1597567507148" />
+    <state width="1388" height="186" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1597570953348" />
     <state width="1358" height="198" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1596727079532" />
     <state width="1358" height="198" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1596726563108" />
     <state width="1358" height="198" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1596801802543" />
-    <state x="208" y="23" width="1024" height="827" key="SettingsEditor" timestamp="1596309555199">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="87" y="23" width="1024" height="816" key="SettingsEditor" timestamp="1597571117615">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
+    <state x="90" y="23" width="1024" height="814" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1597518180268" />
+    <state x="87" y="23" width="1024" height="816" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1597571117615" />
     <state x="208" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1596309555199" />
     <state x="90" y="41" key="new project wizard" timestamp="1596866604200">
       <screen x="0" y="23" width="1440" height="820" />
